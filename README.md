@@ -1,4 +1,4 @@
-# aseprite-vanilla-gruvbox
+# Vanilla Gruvbox theme for Aseprite
 Gruvbox recolored vanilla theme for aseprite.
 
 ### (Colored tool icons)
