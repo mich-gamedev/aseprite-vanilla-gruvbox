@@ -1,6 +1,10 @@
 # aseprite-vanilla-gruvbox
 Gruvbox recolored vanilla theme for aseprite.
 
+### (Colored tool icons)
+![Screenshot_20250904_134458.png](https://github.com/mich-gamedev/aseprite-vanilla-gruvbox/blob/main/Screenshot_20250904_134458.png?raw=true)
+### (Monochrome tool icons)
+![Screenshot_20250904_134524.png](https://github.com/mich-gamedev/aseprite-vanilla-gruvbox/blob/main/Screenshot_20250904_134524.png?raw=true)
 
 ## How to install:
 ### Via CLI:
