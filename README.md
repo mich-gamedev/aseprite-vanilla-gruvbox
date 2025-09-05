@@ -13,8 +13,9 @@ Gruvbox recolored vanilla theme for aseprite.
 - `git clone https://github.com/mich-gamedev/aseprite-vanilla-gruvbox.git` or `gh repo clone mich-gamedev/aseprite-vanilla-gruvbox`
 - restart aseprite if open
 - select in aseprite > edit > preferences > themes
+- `git pull` to update
 ### Via Zip file:
-- clone repo as a zip file
+- download wanted release
 - unzip into `<aseprite directory here>/data/extensions`
 - restart aseprite if open
 - select in aseprite > edit > preferences > themes
